@@ -1,0 +1,6 @@
+[submodule "zh/public"]
+	path = zh/public
+	url = https://github.com/BowenFu/zh
+[submodule "en/public"]
+	path = en/public
+	url = https://github.com/BowenFu/BowenFu.github.io
